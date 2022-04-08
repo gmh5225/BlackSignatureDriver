@@ -1,1 +1,19 @@
 # BlackListDriver
+- 上海域联软件技术有限公司
+- Zhuhai liancheng Technology Co., Ltd.
+- HT Srl
+- Zhao Fei
+- Xtreaming Technology Inc.
+- Beijing JoinHope Image Technology Ltd.
+- Xi' an JingTech electronic Technology Co.,LTD
+- Beijing Huxin Hutong Information Technology Co
+- Blueone Technology Co
+- Putian Yaxiya Information Technology Co
+- Suzhen ZhouIndividual Developer
+- Synhe Technology  Co
+- Wuhan Century Mengke Network Technology Co
+- Beijing Longweishengda Technology Co
+- BEIJING WANXIANGBOZHONG SYSTEM INTEGRATION CO
+- Blueone Technology Co
+- Chengdu Qiqiao Software Co
+- Nanjing xScaler Information Technology Co
