@@ -33,4 +33,6 @@
 - 善君 韦
 - marconeluca@gmail.com
 - NHN USA Inc.
+- Beijing Founder Apabi Technology Limited
+- Binzhoushi Yongyu Feed Co., LTd.
 
