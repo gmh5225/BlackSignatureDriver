@@ -38,4 +38,6 @@
 - NHN USA Inc.
 - Beijing Founder Apabi Technology Limited
 - Binzhoushi Yongyu Feed Co., LTd.
+- 福建六壬网安股份有限公司
+- Bopsoft;
 
